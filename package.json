@@ -1,0 +1,13 @@
+{
+  "name": "projeto-carrinho-de-compras",
+  "version": "1.0.0",
+  "description": "Project e-commerce",
+  "main": "main.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
